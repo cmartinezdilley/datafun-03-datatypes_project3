@@ -1,5 +1,5 @@
-"""
-
+""" 
+Christine Martinez
 Examples of numeric lists
 
 VS Code Menu / View / Command Palette / Python Interpretor
