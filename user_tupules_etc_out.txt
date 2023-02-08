@@ -1,0 +1,30 @@
+This section is all about Tupules
+
+
+The following information gives the ages and adoption prices
+cat_ages =(15, 1, 2)
+(25.5, 50, 100)
+
+Below, we show the cat color, type, age and price
+cat_1 =('Black', 'Siamese Cat', [15, 25.5])
+cat_2 =('Orange', 'Persian Cat', [1, 50])
+cat_3 =('White', 'Ocelot', [2, 100])
+
+(15, 1, 2, 25.5, 50, 100)
+
+Repet of a tupule
+(15, 1, 2, 15, 1, 2, 15, 1, 2, 15, 1, 2)
+
+Next is sets- Task 5
+Female Cat Names: {'princess', 'luna', 'buttercup'}
+Male Cat Names: {'Mr. Brown', 'mochi', 'Max'}
+
+When you make them a union, it looks like
+{'luna', 'mochi', 'princess', 'Mr. Brown', 'buttercup', 'Max'}
+The intersection from these sets is
+{'Mr. Brown', 'mochi', 'Max'}
+
+Next is the dictionary Task
+
+{'How': 1, 'much': 3, 'wood': 2, 'would': 3, 'a': 4, 'woodchuck': 4, 'chuck': 4, 'if': 2, 'could': 2, 'wood?': 1, 'He': 1, 'chuck,': 1, 'he': 2, 'would,': 1, 'as': 4, 'could,': 1, 'and': 1, 'wood.': 1}
+(base) iMac:datafun-03-datatypes_project3 nistine$ 
